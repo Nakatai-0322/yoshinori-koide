@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 
 ### 最近のじょーきょー
 
-- 💬 メインスキル: Node.js+Angular+(AWS, GCP, Azure)+Flutterでフロントからインフラまで
+- 💬 メインスキル: Node.js+(Angular+Svelte)+(AWS, GCP, Azure)+Flutterでフロントからインフラまで
 - ✅ もちろんOK: Java,C#,RDB
-- 🥰 Loves: Rpi4+K8s→エッジ+CloudNative
-- 👍 Other: Traefik, Jeager, Hyperledger(Fabric&Indy), Terraform, Grafana
+- 🥰 Loves: Rpi4+K8s→エッジ+CloudNative、秘密計算とかRaftとか分散合意アルゴリズム(BFT)とか。
+- 👍 Other: Traefik, Jeager, Hyperledger(Fabric&Indy), Terraform, Vault, GraphQL, Grafana
+- 🤔 CloudNativeでCI/CDしたい。Tekton触ってみたい。CloudNativeでML/AIしたい。Kubeflow触ってみたい。とりあえずクバネェ。。。
 
 🙇 よろしくお願いします。🙇
 
