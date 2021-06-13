@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+  <img src="motomachi-koen.png" width=70%>
+</p>
 ### 最近のじょーきょー
 
 - 💬 メインスキル: Node.js+(Angular+Svelte)+(AWS, GCP, Azure)+Flutterでフロントからインフラまで
