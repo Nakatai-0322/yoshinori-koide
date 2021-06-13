@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **yoshinori-koide/yoshinori-koide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 最近のじょーきょー
+
+- 💬 メインスキル: Node.js+Angular+(AWS, GCP, Azure)+Flutterでフロントからインフラまで
+- ✅ もちろんOK: Java,C#,RDB
+- 🥰 Loves: Rpi4+K8s→エッジ+CloudNative
+- 👍 Other: Traefik, Jeager, Hyperledger(Fabric&Indy), Terraform, Grafana
+
+🙇 よろしくお願いします。🙇
+
+
+### 📊 GitHub Status 📋:
+
+![Yoshinori's GitHub stats](https://github-readme-stats.vercel.app/api?custom_title=Yoshinori's%20GitHub%20Status&username=yoshinori-koide&count_private=true&show_icons=true&theme=radical)
+
+### 🏆 Trophy 🏆 :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoshinori-koide&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+### GitHub Streak:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoshinori-koide&theme=onedark_duo)](https://git.io/streak-stats)
