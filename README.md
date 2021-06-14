@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="motomachi-koen.png" width=70%>
 </p>
-### 最近のじょーきょー
+
+### 近況
 
 - 💬 メインスキル: Node.js+(Angular+Svelte,TypeScript)+(AWS, GCP, Azure)+Flutterでフロントからインフラまで
 - ✅ もちろんOK: Java,C#,RDB
